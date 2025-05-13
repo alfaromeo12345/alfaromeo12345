@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning C language
 
 <!---
-alfaromeo12345/alfaromeo12345 is a ✨ special ✨ repository because its `README.md` (this file)
+alfaromeo12345/alfaromeo12345 is a ✨ special ✨ repository because its `README.md'
 --->
